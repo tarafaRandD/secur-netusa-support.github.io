@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective date:** November 24, 2026
+**Effective date:** February 24, 2026
 
 This Privacy Policy describes how the OWPG Vehicle Checkout iOS app ("the App") handles information while providing vehicle checkout and trip history functionality.
 
@@ -150,5 +150,5 @@ The App's developers or the organization operating the service should also revie
 
 For privacy questions or requests, contact the organization that provided the App:
 
-- **Developer / organization:** Secur-Net USA, Inc.
-- **Privacy or support contact:** **[ADD REQUIRED PUBLIC PRIVACY/SUPPORT EMAIL OR URL BEFORE RELEASE]**
+- **Developer / organization:** [Secur-Net USA, Inc.](https://secur-netusa.com/)
+- **Privacy or support contact:** *[privacy policy](https://tarafarandd.github.io/secur-netusa-support.github.io/)*
